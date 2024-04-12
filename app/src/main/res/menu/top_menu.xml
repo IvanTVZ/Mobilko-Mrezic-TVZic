@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+            android:id="@+id/action_settings"
+            android:icon="@drawable/ic_settings_24dp"
+            android:title="@string/title_settings"
+            app:showAsAction="never"/>
+
+    <item
+            android:id="@+id/action_about"
+            android:icon="@drawable/ic_info_24dp"
+            android:title="@string/title_about"
+            app:showAsAction="never"/>
+
+    <item
+            android:id="@+id/action_exit"
+            android:icon="@drawable/ic_exit_24dp"
+            android:title="@string/title_exit"
+            app:showAsAction="never"/>
+</menu>
